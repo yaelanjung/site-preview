@@ -2,29 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Fellow | Dilks Lab, Emory University
 
 profile:
   align: right
   image: me.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
     <p>Department of Psychology</p>
     <p>Emory University</p>
     <p>Atlanta, GA 30322</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: true
+social: true
 ---
 Hi! I am a postdoctoral researcher working with [Daniel Dilks](https://secure.web.emory.edu/psychology/dilks/main.php) in the Department of Psychology at Emory University.
 
